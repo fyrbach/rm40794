@@ -2,4 +2,4 @@
 
 ## Test
 
-Git is cool.
+Git is cool. 🙂
