@@ -7,3 +7,7 @@ Git is cool. 🙂
 ## Markdown
 
 Is it better than AsciiDoc? It depdends…
+
+## Bash
+
+How old is it?
