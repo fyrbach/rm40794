@@ -2,7 +2,7 @@
 
 ## Git
 
-Git is cool. 🙂
+Git, Git, Git, Git, Git…
 
 ## Test
 
